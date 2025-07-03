@@ -15,8 +15,7 @@ In this HR analytics project, I developed a in-depth Power BI dashboard by integ
 
 ![SCREENSHOT1](https://github.com/Analyticope/Inotech-Supermarket-Sales-Analysis/blob/main/Sales_data%2011.jpg)
 
-
-![Screenshot 2](https://github.com/user-attachments/assets/bd66b9a8-e43b-4bc9-9ce3-0d5ce214afdd)
+![Screenshot 2](https://github.com/Analyticope/Inotech-Supermarket-Sales-Analysis/blob/main/Sales_data.jpg)
 
 ### 📄 SQL query used 
  ```sql
