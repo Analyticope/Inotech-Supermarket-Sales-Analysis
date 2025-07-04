@@ -160,49 +160,48 @@ Tools & Features Used:
 
 ### Results/Findings
 1. Sales Performance Over Time
-	•	Sales revenue peaked around August and gradually declined through February, dropping from over 10 million to under 8.5 million monthly.
-	•	Despite the monthly decline, overall year-over-year revenue increased by nearly 77%.
-	•	However, key metrics like quantity sold, average selling price, and customer count all declined sharply.
+• Sales revenue peaked around August and gradually declined through February, dropping from over 10 million to under 8.5 million monthly.
+• Despite the monthly decline, overall year-over-year revenue increased by nearly 77%.
+• However, key metrics like quantity sold, average selling price, and customer count all declined sharply.
+**Finding**: The business generated more revenue from fewer sales and fewer customers,indicating either a change in sales strategy (e.g., bulk or high-value purchases) or potential data gaps.
 
-Finding: The business generated more revenue from fewer sales and fewer customers,indicating either a change in sales strategy (e.g., bulk or high-value purchases) or potential data gaps.
+3. Top-Performing Products
+• Products such as Always Pads (₦3.6M), Chi Exotic (₦3.4M), and Bobo Juice (₦2.8M) were the highest revenue generators.
+• Most top products are fast-moving consumer goods, especially beverages and household items.
 
-2. Top-Performing Products
-	•	Products such as Always Pads (₦3.6M), Chi Exotic (₦3.4M), and Bobo Juice (₦2.8M) were the highest revenue generators.
-	•	Most top products are fast-moving consumer goods, especially beverages and household items.
+**Finding**: These products are key revenue drivers and likely have strong, consistent demand. They should be prioritized in stock planning and promotions.
 
-Finding: These products are key revenue drivers and likely have strong, consistent demand. They should be prioritized in stock planning and promotions.
+5. City-wise Revenue Distribution
+• The highest revenue came from Lagos and Benin City (₦8M each), followed by Uyo, Calabar, Enugu, and Ilorin, all generating over ₦7M.
 
-3. City-wise Revenue Distribution
-	•	The highest revenue came from Lagos and Benin City (₦8M each), followed by Uyo, Calabar, Enugu, and Ilorin, all generating over ₦7M.
+**Finding**: Sales are fairly balanced across multiple cities, indicating good regional reach and performance.
 
-Finding: Sales are fairly balanced across multiple cities, indicating good regional reach and performance.
+7. Customer Revenue Contribution
+• A small group of customers, like Alison Ryan (₦114K) and Alicia Neal (₦106K), contributed significantly to total sales.
 
-4. Customer Revenue Contribution
-	•	A small group of customers, like Alison Ryan (₦114K) and Alicia Neal (₦106K), contributed significantly to total sales.
-
-Finding: The business heavily depends on a few high-value customers, which presents both opportunity and risk. Retaining these customers is critical.
+**Finding**: The business heavily depends on a few high-value customers, which presents both opportunity and risk. Retaining these customers is critical.
 
   ### Recommendation
-  1.	Address the Sales Decline Over Time
-    Look into why sales have been dropping month by month — it could be due to seasonality, stock issues, or lack of promotions. Try running targeted marketing campaigns 
+1. Address the Sales Decline Over Time
+    Look into why sales have been dropping month by month,it could be due to seasonality, stock issues, or lack of promotions. Try running targeted marketing campaigns 
     during slower months to boost sales.
 
-	2.	Keep Best-Selling Products in Focus
+2. Keep Best-Selling Products in Focus
    Always Pads, Chi Exotic, and Bobo Juice are strong performers. Make sure these are always in stock and consider bundling them with other products to drive more sales.
    
-	3.	Learn From Top-Performing Cities
+3.Learn From Top-Performing Cities
    Lagos and Benin City are leading in revenue. Study what’s working in those cities and try to apply the same strategies (ads, pricing, promotions) in lower-performing 
    areas.
    
-	4.	Prioritize High-Value Customers
+4.Prioritize High-Value Customers
   A few customers are spending a lot — they’re clearly valuable. Show appreciation with loyalty rewards, personalized offers, or exclusive discounts to keep them coming 
   back.
   
-	5.	Support All Payment Methods
+5.Support All Payment Methods
    Customers are using a variety of payment options almost equally. Keep offering this flexibility, but you might consider encouraging digital payments with small 
    incentives like cashback or discounts.
    
-	6.	Investigate Drops in Quantity, Price, and Customer Count
+6.Investigate Drops in Quantity, Price, and Customer Count
   Even though revenue is up, fewer people are buying, and fewer items are being sold. Check if this is due to a reporting issue or if the business is shifting to fewer, 
    larger sales — and adjust your strategy accordingly.
 
@@ -213,18 +212,18 @@ This analysis shows that INOTECH Supermarket is doing well overall,revenue has g
 Sales have been dropping month by month, and fewer customers are buying fewer products. That could mean changes in customer behavior, stock issues, or even just inconsistencies in the data. Either way, it’s something worth looking into.
 
 The good news? There are clear strengths to build on:
-	•	Some products consistently drive revenue.
+• Some products consistently drive revenue.
  
-	•	Certain cities are performing exceptionally well.
+• Certain cities are performing exceptionally well.
  
-	•	Top customers are loyal and valuable.
+• Top customers are loyal and valuable.
  
-	•	Payment systems are flexible and working smoothly.
+• Payment systems are flexible and working smoothly.
 
 With a few smart moves — like focusing on customer engagement, promoting best-selling products, and improving performance in slower months,INOTECH can turn these insights into action and keep growing in the right direction.
 
 
-💻
+
 
 
 
