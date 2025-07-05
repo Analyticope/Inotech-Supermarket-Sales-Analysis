@@ -132,7 +132,7 @@ Sourced from well-structured CSV files, The dataset is a synthetic supermarket s
 
 Eda Involved Exploring HR data to answer key question, such as :
 
-8 Key Questions This Power BI HR Project Answers:
+8 Key Questions This Power BI Sales Analysis Project Answers:
 1. What is the total sales Revenue
 2.  Quantity Sold?
 3.  What is the Average price?
